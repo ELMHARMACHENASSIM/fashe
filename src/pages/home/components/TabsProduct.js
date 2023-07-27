@@ -3,7 +3,6 @@ import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
 import "react-tabs/style/react-tabs.css";
 import prd1 from "../../../assets/images/prd1.jpg";
 import prd3 from "../../../assets/images/prd3.jpg";
-
 import "./_tabs.scss";
 const TabsProduct = () => {
   return (
