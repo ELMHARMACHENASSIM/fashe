@@ -14,6 +14,7 @@ import { NavLink } from "react-router-dom";
 import TabsProduct from "./components/TabsProduct";
 import VideoBg from "./components/VideoBg";
 import Footer from "../footer/Footer";
+import Scroll from "./components/Scroll";
 
 const Home = () => {
   return (
@@ -88,6 +89,7 @@ const Home = () => {
       </div>
       <VideoBg />
       <Footer />
+      <Scroll />
     </>
   );
 };

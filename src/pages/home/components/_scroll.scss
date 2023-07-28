@@ -1,0 +1,17 @@
+.btntop{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.514);
+    cursor: pointer;
+    .topicon{
+        font-size: 30px;
+        color: white;
+    }
+}
