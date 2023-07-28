@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fashe/static/css/main.d18e97e5.css",
+    "main.js": "/fashe/static/js/main.20f47d33.js",
+    "static/media/img3.jpg": "/fashe/static/media/img3.43a253b3a62a81c5864f.jpg",
+    "static/media/clothes_-_36846 (720p).mp4": "/fashe/static/media/clothes_-_36846 (720p).c06dc54678ed87831c96.mp4",
+    "static/media/img4.jpg": "/fashe/static/media/img4.d19760e69a34742dc556.jpg",
+    "static/media/img2.jpg": "/fashe/static/media/img2.beac15abf4f750926dcd.jpg",
+    "static/media/abt.jpg": "/fashe/static/media/abt.c6a008948649451716f3.jpg",
+    "static/media/prd3.jpg": "/fashe/static/media/prd3.2e510d66349471f7035d.jpg",
+    "static/media/prd4.jpg": "/fashe/static/media/prd4.099836a1d66a57209184.jpg",
+    "static/media/img1.jpg": "/fashe/static/media/img1.9e2d974061829b9d8ef0.jpg",
+    "static/media/prd1.jpg": "/fashe/static/media/prd1.e3a999245d5fb1f4f592.jpg",
+    "index.html": "/fashe/index.html",
+    "main.d18e97e5.css.map": "/fashe/static/css/main.d18e97e5.css.map",
+    "main.20f47d33.js.map": "/fashe/static/js/main.20f47d33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18e97e5.css",
+    "static/js/main.20f47d33.js"
+  ]
+}
